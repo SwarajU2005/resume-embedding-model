@@ -84,8 +84,7 @@ pip install -U sentence-transformers PyMuPDF python-docx torch
 
 ## 📝 License
 
-Apache 2.0 – free to use with credit.
-
+MIT License – free to use, modify, and distribute with credit.
 ---
 
 ## ✨ Credits
